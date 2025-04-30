@@ -53,22 +53,3 @@ To use this application, you'll need to:
 2. Enable the YouTube Data API v3
 3. Create an API key
 4. Replace the `KEY` constant in `App.js` with your API key
-
-## Development
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-### Available Scripts
-
-- `npm start`: Runs the app in development mode
-- `npm test`: Launches the test runner
-- `npm run build`: Builds the app for production
-- `npm run eject`: Ejects from Create React App
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
